@@ -41,4 +41,3 @@ public class ChecagemDePalindromos {
 	        System.out.println(novaPalavra.equals(palavra)?"TRUE":"FALSE");
 	    }
 	}
-}
